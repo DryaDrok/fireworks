@@ -7,6 +7,19 @@ body{
 h2{
     background-color: rgb(141, 238, 141);
 }
+header{
+    background-color: rgb(134, 206, 248);
+    padding: 10px;
+}
+main{
+    margin: 10px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    margin: 10px;
+}
 .contacts{
     background-color: rgb(91, 255, 91);
     text-decoration: none;
@@ -15,24 +28,6 @@ h2{
     padding: 10px 0px; 
     text-align: center;
     color: black;
-}
-.logo{
-    background-color: violet;
-     text-decoration: none;
-    border-radius: 10px;
-    margin: 10px 0px;
-    padding: 10px 0px; 
-    text-align: center;
-    color: white;
-}
-.discount{
-    background-color: rgb(240, 3, 240);
-     text-decoration: none;
-    border-radius: 5px;
-    margin: 5px 0px;
-    padding: 5px 0px; 
-    text-align: center;
-    color: white;
 }
 .price{
     background-color: rgb(115, 248, 219);
@@ -52,24 +47,9 @@ h2{
     text-align: center;
     color: white;
 }
-.lesale{
-    background-color:rgb(115, 248, 219);
-     text-decoration: none;
-    border-radius: 5px;
-    margin: 10px 0px;
-    padding: 3px 0px; 
-    text-align: center;
-    color: black;
-}
-.abo{
-    background-color: rgb(240, 3, 240);
-     text-decoration: none;
-    border-radius: 5px;
-    margin: 10px 0px;
-    padding: 3px 0px; 
-    text-align: center;
-    color: white;
-}
 h1{
-    background-color: rgb(240, 158, 129);
+    background-color: rgb(201, 240, 129);
+}
+footer{
+    background-color: rgb(125, 190, 255);
 }
